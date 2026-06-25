@@ -1,46 +1,79 @@
-# Hi there, I'm Naman Malviya! 👋
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=namansingh-malviya&color=3370ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:4a00e0&height=280&section=header&text=Naman%20Singh%20Malviya&fontSize=50&fontColor=ffffff&animation=twinkling" alt="Naman Singh Malviya Banner" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Building code, solving DSA, exploring new technologies, and learning one C++ compilation error at a time.</strong>
+</p>
+
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://github.com/namansingh-malviya" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-2ea44f?style=for-the-badge&labelColor=24292e" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/naman-malviya-06b351362" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&labelColor=24292e" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-SOLVING-f90?style=for-the-badge&labelColor=24292e" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <!-- Profile Views -->
+  <img src="https://komarev.com/normal-badge/?username=namansingh-malviya&label=PROFILE+VIEWS&color=7b2cbf&style=for-the-badge&labelColor=24292e" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am a passionate **Student** from India, dedicated to exploring new technologies, solving logical problems, and building projects. Currently, I am deeply focused on mastering **Data Structures & Algorithms (DSA)** using **C++**.
+## 🚀 About Me
 
-- 🔭 **Currently working on:** Enhancing my DSA problem-solving skills and coding fundamentals.
-- 📚 **Currently learning:** Advanced Data Structures, Algorithms, and System design concepts.
-- 💻 **Main IDE/Editor:** Visual Studio Code.
-- 💬 **Ask me about:** C++, basic programming logic, or anything tech-related!
-- ⚡ **Fun fact:** I love configuring my workspace and learning about new development tools.
+I'm an aspiring Software Engineer and 2nd year student from RGPV Shivpuri, deeply passionate about learning new technologies and solving logical challenges. Most of my time currently goes into mastering **Data Structures & Algorithms (DSA)** in **C++**, building robust programming fundamentals, and setting up my developer workflows.
+- 💻 Solving DSA problems in **C++** to strengthen my analytical skills.
+- 🚀 Exploring Git, GitHub, and command line tools to collaborate on projects.
+- ⚙️ Interested in Problem Solving, Algorithms, and clean software practices.
+- 🌱 Currently diving deep into standard libraries and object-oriented concepts.
+
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
+### 💻 Languages & Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c" alt="Languages" />
+</a>
+
+### 🔧 Tools, IDEs & AI Assistants
 <p align="left">
-  <!-- Languages -->
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <!-- Skill Icons row -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,powershell" alt="Tools" />
   </a>
-  &nbsp;
-  <!-- Tools -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  &nbsp;
-  <a href="https://desktop.github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Desktop-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
+  <br/>
+  <!-- Custom badge for Claude -->
+  <a href="https://anthropic.com" target="_blank" style="margin-top: 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/Claude-D97756?style=for-the-badge&logo=anthropic&logoColor=FBF0DF" alt="Claude AI" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namansingh-malviya/namansingh-malviya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namansingh-malviya/namansingh-malviya/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/namansingh-malviya/namansingh-malviya/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namansingh-malviya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Naman's GitHub Stats" />
@@ -54,13 +87,11 @@ I am a passionate **Student** from India, dedicated to exploring new technologie
 Let's connect, share ideas, and grow together!
 
 <p align="left">
-  <!-- LinkedIn (Replace YOUR-LINKEDIN-USERNAME with actual username) -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/naman-malviya-06b351362" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <!-- Email (Replace your.email@example.com with actual email) -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nm882300@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
